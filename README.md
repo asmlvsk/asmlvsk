@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**asmlvsk/asmlvsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Artem, full-stack dev based in Poland.
+Focused on building scalable web applications and clean, maintainable systems. 
+Experienced in delivering end-to-end solutions, from frontend interfaces to backend services and deployment.
+Always ready to learn and adapt for new tech stacks
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript, TypeScript, React, Next.js.
+Node.js, NestJS, Ruby on Rails.
+PostgreSQL, MongoDB.
+
+Was working a lot with .NET ecosystem.
