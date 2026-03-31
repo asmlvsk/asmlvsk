@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# All my working repos are private, here's my old repos which I was doing in my free time.
+### All my working repos are private, here's my old repos which I was doing in my free time.
 I'm Artem, full-stack dev based in Poland.
 Focused on building scalable web applications and clean, maintainable systems. 
 Experienced in delivering end-to-end solutions, from frontend interfaces to backend services and deployment.
